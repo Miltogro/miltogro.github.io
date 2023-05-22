@@ -1,11 +1,14 @@
-git clone https://github.com/miltogro/miltogro.github.io
-
-cd miltogro.github.io
-
-echo "Hello World" > index.html
-
-git add --all
-
-git commit -m "Commit inicial"
-
-git push -u origem principal
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Meu Nome</title>
+  <style>
+    h1 {
+      font-size: 5em;
+    }
+  </style>
+</head>
+<body>
+  <h1>EMILTON NETO</h1>
+</body>
+</html>
